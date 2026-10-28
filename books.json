@@ -1,0 +1,15 @@
+
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Le Petit Prince",
+      "author": "Antoine de Saint-Exupéry"
+    },
+    {
+      "id": 2,
+      "title": "L'Étranger",
+      "author": "Albert Camus"
+    }
+  ]
+}
